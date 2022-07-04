@@ -40,7 +40,7 @@ If you have a cable for any of these devices above, you are already set!
 
 *[8din to SCART adapter](https://etim.net.au/shop/shop.php?crn=203&rn=543&action=show_detail) from Tim Worthington*
 
-But of course, if you don't have any, you can still build my [8DIN2VGA dongle](../8DIN2VGA) and output from a VGA cable!
+But of course, if you don't have any, you can still build my [8DIN2VGA dongle](https://github.com/jeffqchen/8DIN2VGA) and output from a VGA cable!
 <img src="./Pics/8din2vga.jpg" width="400px" />
 
 
