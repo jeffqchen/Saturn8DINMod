@@ -1,15 +1,15 @@
-# Saturn 8-pin mini DIN Mod
+# Sega Saturn 8-pin mini DIN Mod
 
 This is a mod design with a PCB and a 3D printed shroud, for replacing a broken 10-pin mini DIN AV port on a Sega Saturn with an 8-pin mini DIN port. It will output an RGBS video signal and stereo audio, conforming to the XRGB pinout.
 
-<img src="./Pics/8dins.jpg" width="400px" />
+<img src="./Pics/8dins.jpg" width="600px" />
 
 -------------
 ## Explanation
 
 The Sega Saturn opted for a strange 10-pin mini DIN connector for its AV output. Decades of abuse and oxidation has rendered a lot of them inoperable. Some horror story has it shorting +5V to GND internally, almost killing the machine itself.
 
-<img src="./Pics/flaky10din.jpg" width="400px" />
+<img src="./Pics/flaky10din.jpg" width="600px" />
 
 *Flaky old 10-pin mini DIN*
 
@@ -19,7 +19,7 @@ On the other hand, if you want to hook up a Saturn to your setup, you will need 
 
 Meanwhile, 8-pin mini DIN sockets are eye-watering cheap and abundantly available on Aliexpress 🤡
 
-<img src="./Pics/8din_aliexpress.jpg" width="400px" />
+<img src="./Pics/8din_aliexpress.jpg" width="800px" />
 
 
 This is why I have made this decision - the 10-pin mini DIN connector has to go.
@@ -59,14 +59,14 @@ For Attenuated CSync:
 
 Print the model as-is without support. Easy and simple.
 
-<img src="./Pics/3dprint.jpg" width="400px" />
+<img src="./Pics/3dprint.jpg" width="600px" />
 
 -------------
 ## Port Assembly
 
 Clean up the perimeter of the PCB so nothing is sticking out.
 
-<img src="./Pics/pcb_before.jpg" width="400px" />
+<img src="./Pics/pcb_before.jpg" width="600px" />
 
 Populate the PCB. Choose one from these 3 options.
 
@@ -80,7 +80,7 @@ Populate the PCB. Choose one from these 3 options.
   - Close the Luma as Sync jumper. Do not populate any SMD component.
 
 
-<img src="./Pics/pcb_after.jpg" width="400px" />
+<img src="./Pics/pcb_after.jpg" width="600px" />
 
 Note: When soldering the 100uF SMD cap, make sure the solder did NOT short the adjacent jumper pad.
 
@@ -92,25 +92,25 @@ Here is a method suggested by[Leon Kiriliuk](https://twitter.com/leonkiriliuk/st
 
 First, pick a sacrificial resistor with long legs. I bent the legs into a zigzag shape with a syringe needle, with each section about 5mm long. This will be the length we need for the pins. You could also simply mark the length with a marker pen. It's all up to you.
 
-<img src="./Pics/pins_1.jpg" width="400px" />
+<img src="./Pics/pins_1.jpg" width="600px" />
 
 Holding the resistor body, solder the end to the pad.
 
-<img src="./Pics/pins_2.jpg" width="400px" />
-<img src="./Pics/pins_3.jpg" width="400px" />
+<img src="./Pics/pins_2.jpg" width="600px" />
+<img src="./Pics/pins_3.jpg" width="600px" />
 
 Then, cut it with a side cutter.
 
-<img src="./Pics/pins_4.jpg" width="400px" />
+<img src="./Pics/pins_4.jpg" width="600px" />
 
 Repeat the process.
 
-<img src="./Pics/pins_5.jpg" width="400px" />
+<img src="./Pics/pins_5.jpg" width="600px" />
 
 Correct any crooked pins with the needle. I find it very easy to bend and correct pins with a syringe needle. Sometimes I use this method to bend chip pins including CPU pins.
 
-<img src="./Pics/pins_6.jpg" width="400px" />
-<img src="./Pics/pins_7.jpg" width="400px" />
+<img src="./Pics/pins_6.jpg" width="600px" />
+<img src="./Pics/pins_7.jpg" width="600px" />
 
 
 -------------
@@ -118,20 +118,20 @@ Correct any crooked pins with the needle. I find it very easy to bend and correc
 
 With all the pins soldered to the PCB, we can proceed.
 
-<img src="./Pics/pins_soldered.jpg" width="400px" />
+<img src="./Pics/pins_soldered.jpg" width="600px" />
 
 Before trying to feed the 8-pin mini DIN socket into the 3D printed piece, bend the shielding pins on the two side slightly outwards.
 
-<img src="./Pics/bend_pins.jpg" width="400px" />
+<img src="./Pics/bend_pins.jpg" width="600px" />
 
 
 Feed the 8-pin mini DIN socket from the front of the 3D-printed piece. Its rim should sit flush with the face of the piece once pushed all the way in.
 
-<img src="./Pics/8din_insert_front.jpg" width="400px" />
+<img src="./Pics/8din_insert_front.jpg" width="600px" />
 
 However for now, push it in only so that the pins on the back is flush with the hole on the back.
 
-<img src="./Pics/not_all_the_way_in.jpg" width="400px" />
+<img src="./Pics/not_all_the_way_in.jpg" width="600px" />
 
 Lay the PCB on the back of the 3D printed piece. Lodge the cutout on the PCB into the sticking out piece on the left side of the shroud at an angle, then close it down so it sits inside the brackets on the right side.
 
@@ -139,11 +139,11 @@ Then feed the pins on the back of the 8-pin DIN through the holes on the PCB, an
 
 If you have problems with the pins going through the vias, especially the shielding pins on the sides, use a pair of tweezers to help guiding those pins through. This is why I suggested to bend the shield pins slightly outwards before hand.
 
-<img src="./Pics/8din_insert_back.jpg" width="400px" />
+<img src="./Pics/8din_insert_back.jpg" width="600px" />
 
 Make sure everything is tightly pressed together, then solder down at least two pins onto the PCB. Keep checking if it's tight and snug. Melt the soldered pin if you have to adjust. Then, solder in the rest of the pins on the 8-pin DIN.
 
-<img src="./Pics/8din_soldered.jpg" width="400px" />
+<img src="./Pics/8din_soldered.jpg" width="600px" />
 
 -------------
 ## 10-pin mini DIN Removal
@@ -154,13 +154,13 @@ Remelt every pin on the 10-pin DIN with some fresh solder. Push and wiggle the p
 
 Suck up as much as possible solder from each of the pins with solder wick. Wiggle the pins by pushing them around with the solder wick while heating it up with the iron to make sure you remove as much as the solder you can.
 
-<img src="./Pics/10pin_solder_sucked.jpg" width="400px" />
+<img src="./Pics/10pin_solder_sucked.jpg" width="600px" />
 
 Then with a pair of pliers holding the 10 pin DIN from below (but not pulling YET), blast the PCB with hot air from the top.
 
 Wait until the solder start to melt. Then you will be able to wiggle and pull the 10-pin DIN out without too much resistance. IF you feel that you are pulling too hard and the PCB started to warp, STOP. This means your solder is not melted enough. And you will likely cause a lot of damage to the board. Be patient and give it a bit more time to melt properly.
 
-<img src="./Pics/10din_removed.jpg" width="400px" />
+<img src="./Pics/10din_removed.jpg" width="600px" />
 
 Finally, clean up the bottom of the PCB with some alcohol.
 
@@ -169,24 +169,24 @@ Finally, clean up the bottom of the PCB with some alcohol.
 
 Feed the assembled 8-pin DIN through the holes on the Saturn motherboard. Be careful and patient so you don't feel the leads through wrong holes.
 
-<img src="./Pics/8din_inserted.jpg" width="400px" />
+<img src="./Pics/8din_inserted.jpg" width="600" />
 
 Make sure the 3D-printed piece sits tightly against the PCB. Note the front and back face of the DIN is NOT perpendicular with the PCB. This is intended. Otherwise the new 8-pin DIN port will not sit flush with the Saturn outer shell, but instead have an ugly gap.
 
-<img src="./Pics/not_perpendicular.jpg" width="400px" />
+<img src="./Pics/not_perpendicular.jpg" width="600" />
 
 Solder in the two outside pins so the assembly is held down. You can melt them again if the assembly does not sit properly in its place. Keep adjusting until you are satisfied.
 
-<img src="./Pics/8din_solder_shielding_pins.jpg" width="400px" />
+<img src="./Pics/8din_solder_shielding_pins.jpg" width="600" />
 
 Solder in one row of the signal pins, then trim them.
 
-<img src="./Pics/8din_solder_front_pins.jpg" width="400px" />
-<img src="./Pics/8din_trim_front.jpg" width="400px" />
+<img src="./Pics/8din_solder_front_pins.jpg" width="600" />
+<img src="./Pics/8din_trim_front.jpg" width="600" />
 
 Solder in the other row of signal pins, and trim them too.
 
-<img src="./Pics/8din_solder_back.jpg" width="400px" />
+<img src="./Pics/8din_solder_back.jpg" width="600" />
 
 And installation is finished.
 
@@ -197,12 +197,12 @@ You can now put the Saturn back together like normal.
 
 Note when you try to sit the motherboard back into its place, the 8-pin DIN needs a firm press so it snaps into the hole snuggly with an audible click.
 
-<img src="./Pics/into_shell.jpg" width="400px" />
-<img src="./Pics/8din_outside.jpg" width="400px" />
+<img src="./Pics/into_shell.jpg" width="600" />
+<img src="./Pics/8din_outside.jpg" width="600" />
 
 When laying the top metal shield back into its place, make sure the metal tongues sit nicely into the slots on the 3D-printed piece.
 
-<img src="./Pics/shielding_sitting.jpg" width="400px" />
+<img src="./Pics/shielding_sitting.jpg" width="600" />
 
 With the help of the outer shell, the PCB and the metal shielding, there is no wiggle room for the new port. I expect it to be as sturdy as the original, if not better.
 
