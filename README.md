@@ -125,7 +125,7 @@ Correct any crooked pins with the needle. I find it very easy to bend and correc
 
 
 -------------
-## Install onto Saturn motherboard
+## Solder in the 8-pin mini DIN port
 
 With all the pins soldered to both sides of the PCB, we can proceed.
 
@@ -174,7 +174,7 @@ Wait until the solder start to melt. Then you will be able to wiggle and pull th
 Finally, clean up the bottom of the PCB with some alcohol.
 
 -------------
-## Installation
+## Installation onto Saturn motherboard
 
 Feed the assembled 8-pin DIN through the holes on the Saturn motherboard. Be careful and patient so you don't feel the leads through wrong holes.
 
