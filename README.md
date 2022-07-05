@@ -99,7 +99,7 @@ Then, tin all the SMD pads with a good amount of solder, so you can solder metal
 
 ### Solder pins onto the PCB
 
-Here is a method suggested by [Leon Kiriliuk](https://twitter.com/leonkiriliuk/status/1542005845776547842) and I found it made a ton of sense. Unfortunately I ran out of the Saturn PCB at the time, so I used a piece of prototype board as a demonstration.
+Here is a method suggested by [Leon Kiriliuk](https://twitter.com/leonkiriliuk/status/1542005845776547842), and I find it makes a ton of sense. Unfortunately I ran out of the Saturn PCB at the time, so I used a piece of prototype board as a demonstration.
 
 First, pick a sacrificial resistor with long legs. I bent the legs into a zigzag shape with a syringe needle, with each section about 5mm long. This will be the length we need for the pins. You could also simply mark the length with a marker pen. It's all up to you.
 
