@@ -26,14 +26,14 @@ Meanwhile, 8-pin mini DIN sockets are eye-watering cheap and abundantly availabl
 <img src="./Pics/8din_aliexpress.jpg" width="800px" />
 
 
-This is why I have made this decision - the 10-pin mini DIN connector has to go.
+This is why I made this decision - the 10-pin mini DIN connector has to go.
 
 
 <img src="./Pics/3-10_din.jpg" width="400px" />
 
 Looking at the Saturn's schematic, its RGB lines are properly DC-decoupled with 220uF caps. Its CSync line needs to be attenuated and DC-decoupled for normal 75 ohm devices. This is very similar to an XRGB 8-pin DIN video cable, which is just straight pass-throughs with no extra components.
 
-Devices that use 8-pin mini DIN RGBS cables that I am aware of:
+Consoles that use 8-pin mini DIN RGBS cables that I am aware of:
 - NESRGB (8-pin mini DIN version)
 - 3DORGB
 - Supergun Minigun
@@ -48,7 +48,9 @@ Retro Gaming Cables from UK sells a cable that's similar to Tim's cable [Here](h
 
 Retro Access sells an [XRGB to BNC adapter](https://retro-access.com/collections/xrgb-adaptors/products/bnc-to-8-pin-mini-din-for-extron-to-xrgb-mini-pro-coaxial-multicore?variant=45853115731).
 
-But of course, if you don't have any, you can still build my [8DIN2VGA dongle](https://github.com/jeffqchen/8DIN2VGA) and output from a VGA cable!
+Since this port conforms to the XRGB standard, the signal can go straight into the RGB IN port on a Framemeister with an 8-pin mini DIN cable.
+
+But of course, if you don't have any of those above, you can still build my [8DIN2VGA dongle](https://github.com/jeffqchen/8DIN2VGA) and output from a VGA cable!
 <img src="./Pics/8din2vga.jpg" width="400px" />
 
 
