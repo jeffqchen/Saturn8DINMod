@@ -165,7 +165,7 @@ Suck up as much as possible solder from each of the pins with solder wick. Wiggl
 
 <img src="./Pics/10pin_solder_sucked.jpg" width="600px" />
 
-Then with a pair of pliers holding the 10 pin DIN from below (but not pulling YET), blast the PCB with hot air from the top.
+Then with a pair of pliers holding the 10 pin DIN from below (but not pulling YET), blast the pins directly with hot air from the top.
 
 Wait until the solder start to melt. Then you will be able to wiggle and pull the 10-pin DIN out without too much resistance. IF you feel that you are pulling too hard and the PCB started to warp, STOP. This means your solder is not melted enough. And you will likely cause a lot of damage to the board. Be patient and give it a bit more time to melt properly.
 
