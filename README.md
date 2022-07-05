@@ -93,7 +93,7 @@ Populate the PCB. Choose one from these 3 options.
 
 <img src="./Pics/pcb_after.jpg" width="600px" />
 
-Note: When soldering the 100uF SMD cap, make sure the solder did NOT short the adjacent jumper pad.
+Note: When soldering the 100uF SMD cap, make sure the solder does NOT short the adjacent jumper pad.
 
 Then, tin all the SMD pads with a good amount of solder, so you can solder metal pins onto them.
 
