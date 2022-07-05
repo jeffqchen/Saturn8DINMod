@@ -95,7 +95,7 @@ Populate the PCB. Choose one from these 3 options.
 
 Note: When soldering the 100uF SMD cap, make sure the solder does NOT short the adjacent jumper pad.
 
-Then, tin all the SMD pads with a good amount of solder, so you can solder metal pins onto them.
+Then, tin all the SMD pads on both sides pf the PCB with a good amount of solder, so you can solder metal pins onto them.
 
 ### Solder pins onto the PCB
 
@@ -118,7 +118,7 @@ Repeat the process.
 
 <img src="./Pics/pins_5.jpg" width="600px" />
 
-Correct any crooked pins with the needle. I find it very easy to bend and correct pins with a syringe needle. Sometimes I use this method to bend chip pins, including CPU pins.
+Correct any crooked pins with the needle. I find it very easy to bend and correct pins with a syringe needle. Sometimes I use this method to bend chip pins,   including CPU pins.
 
 <img src="./Pics/pins_6.jpg" width="600px" />
 <img src="./Pics/pins_7.jpg" width="600px" />
@@ -127,7 +127,7 @@ Correct any crooked pins with the needle. I find it very easy to bend and correc
 -------------
 ## Install onto Saturn motherboard
 
-With all the pins soldered to the PCB, we can proceed.
+With all the pins soldered to both sides of the PCB, we can proceed.
 
 <img src="./Pics/pins_soldered.jpg" width="600px" />
 
