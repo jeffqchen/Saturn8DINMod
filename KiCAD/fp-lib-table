@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Saturn 8pin mini DIN mod")(type "KiCad")(uri "${KIPRJMOD}/Saturn 8pin mini DIN mod.pretty")(options "")(descr ""))
+)
