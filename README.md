@@ -118,7 +118,7 @@ Repeat the process.
 
 <img src="./Pics/pins_5.jpg" width="600px" />
 
-Correct any crooked pins with the needle. I find it very easy to bend and correct pins with a syringe needle. Sometimes I use this method to bend chip pins including CPU pins.
+Correct any crooked pins with the needle. I find it very easy to bend and correct pins with a syringe needle. Sometimes I use this method to bend chip pins, including CPU pins.
 
 <img src="./Pics/pins_6.jpg" width="600px" />
 <img src="./Pics/pins_7.jpg" width="600px" />
