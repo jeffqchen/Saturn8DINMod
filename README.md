@@ -159,7 +159,7 @@ Make sure everything is tightly pressed together, then solder down at least two 
 
 *This is my method WITHOUT using a desoldering gun. If you have a desoldering gun, feel free to proceed with your own ordinary method!*
 
-Remelt every pin on the 10-pin DIN with some fresh solder. Push and wiggle the pins to exercise the solder inside the vias so that it's thoroughly reflowed.
+Reflow every pin on the 10-pin DIN with some fresh solder. Push and wiggle the pins to exercise the solder inside the vias so that it's thoroughly reflowed.
 
 Suck up as much as possible solder from each of the pins with solder wick. Wiggle the pins by pushing them around with the solder wick while heating it up with the iron to make sure you remove as much as the solder you can.
 
