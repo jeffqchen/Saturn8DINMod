@@ -25,9 +25,7 @@ Meanwhile, 8-pin mini DIN sockets are eye-watering cheap and abundantly availabl
 
 <img src="./Pics/8din_aliexpress.jpg" width="800px" />
 
-
 This is why I made this decision - the 10-pin mini DIN connector has to go.
-
 
 <img src="./Pics/3-10_din.jpg" width="400px" />
 
@@ -42,7 +40,7 @@ If you have a cable for any of these devices above, you are already set!
 
 <img src="./Pics/8din_scart.jpg" width="400px" />
 
-*[8din to SCART adapter](https://etim.net.au/shop/shop.php?crn=203&rn=543&action=show_detail) from Tim Worthington*
+*[Mini-DIN 8p to RGB SCART adapter](https://etim.net.au/shop/shop.php?crn=203&rn=543&action=show_detail) from Tim Worthington*
 
 Retro Gaming Cables from UK sells a cable that's similar to Tim's cable [Here](https://www.retrogamingcables.co.uk/8PIN-MINI-DIN-TO-RGB-EUROSCART-TIM-WORTHINGTON-NES-RGB-ATARI-2600-HAS-SUPERGUN-Sega-Game-Gear-Philips-CDi-Colecovision-Intellivision-Panasonic-3DO).
 
