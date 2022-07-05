@@ -88,7 +88,7 @@ Populate the PCB. Choose one from these 3 options.
   - Populate the 100uF capacitor, short the resistor footprint with a blob of solder or 0 Ohm SMD resistor.
 
 - For Luma as Sync:
-  - Close the Luma as Sync jumper. Do not populate any SMD component.
+  - Close the "Luma Sync" jumper. Do not populate any SMD component.
 
 
 <img src="./Pics/pcb_after.jpg" width="600px" />
