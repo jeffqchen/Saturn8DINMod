@@ -40,6 +40,10 @@ If you have a cable for any of these devices above, you are already set!
 
 *[8din to SCART adapter](https://etim.net.au/shop/shop.php?crn=203&rn=543&action=show_detail) from Tim Worthington*
 
+Retro Gaming Cables from UK sells a cable that's similar to Tim's cable [Here](https://www.retrogamingcables.co.uk/8PIN-MINI-DIN-TO-RGB-EUROSCART-TIM-WORTHINGTON-NES-RGB-ATARI-2600-HAS-SUPERGUN-Sega-Game-Gear-Philips-CDi-Colecovision-Intellivision-Panasonic-3DO).
+
+Retro Access sells an [XRGB to BNC adapter](https://retro-access.com/collections/xrgb-adaptors/products/bnc-to-8-pin-mini-din-for-extron-to-xrgb-mini-pro-coaxial-multicore?variant=45853115731).
+
 But of course, if you don't have any, you can still build my [8DIN2VGA dongle](https://github.com/jeffqchen/8DIN2VGA) and output from a VGA cable!
 <img src="./Pics/8din2vga.jpg" width="400px" />
 
@@ -125,21 +129,19 @@ Before trying to feed the 8-pin mini DIN socket into the 3D printed piece, bend 
 <img src="./Pics/bend_pins.jpg" width="600px" />
 
 
-Feed the 8-pin mini DIN socket from the front of the 3D-printed piece. Its rim should sit flush with the face of the piece once pushed all the way in.
-
-<img src="./Pics/8din_insert_front.jpg" width="600px" />
-
-However for now, push it in only so that the pins on the back is flush with the hole on the back.
+Feed the 8-pin mini DIN socket from the front of the 3D-printed piece. For now, push it in only so that the pins on the back is flush with the hole on the back.
 
 <img src="./Pics/not_all_the_way_in.jpg" width="600px" />
 
 Lay the PCB on the back of the 3D printed piece. Lodge the cutout on the PCB into the sticking out piece on the left side of the shroud at an angle, then close it down so it sits inside the brackets on the right side.
 
-Then feed the pins on the back of the 8-pin DIN through the holes on the PCB, and press the DIN port all the way in so its neck flange is flush with the front face of the piece.
-
-If you have problems with the pins going through the vias, especially the shielding pins on the sides, use a pair of tweezers to help guiding those pins through. This is why I suggested to bend the shield pins slightly outwards before hand.
-
 <img src="./Pics/8din_insert_back.jpg" width="600px" />
+
+Then feed the pins on the back of the 8-pin DIN through the holes on the PCB, and press the DIN port all the way in. Its rim should sit flush with the face of the piece once pushed all the way in.
+
+<img src="./Pics/8din_insert_front.jpg" width="600px" />
+
+If you have problems with the pins going through the vias, especially the shielding pins on the sides, use a pair of tweezers to help guiding those pins through from the gap between the PCB and the 3D printed shroud. This is why I suggested to bend the shield pins slightly outwards before hand.
 
 Make sure everything is tightly pressed together, then solder down at least two pins onto the PCB. Keep checking if it's tight and snug. Melt the soldered pin if you have to adjust. Then, solder in the rest of the pins on the 8-pin DIN.
 
