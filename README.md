@@ -6,7 +6,7 @@ This is a mod design with a PCB and a 3D printed shroud, for replacing a broken 
 
 
 
-<img src="./Pics/xrgb_pinout.jpg" width="300px" />
+<img src="./Pics/XRGB_pinout.jpg" width="300px" />
 
 -------------
 ## Explanation
