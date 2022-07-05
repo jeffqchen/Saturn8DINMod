@@ -49,6 +49,7 @@ Retro Access sells an [XRGB to BNC adapter](https://retro-access.com/collections
 Since this port conforms to the XRGB standard, the signal can go straight into the RGB IN port on a Framemeister with an 8-pin mini DIN cable.
 
 But of course, if you don't have any of those above, you can still build my [8DIN2VGA dongle](https://github.com/jeffqchen/8DIN2VGA) and output from a VGA cable!
+
 <img src="./Pics/8din2vga.jpg" width="400px" />
 
 
@@ -57,6 +58,8 @@ But of course, if you don't have any of those above, you can still build my [8DI
 
 - [Saturn 8-pin mini DIN Mod PCB](https://oshpark.com/shared_projects/etx4c03R)
 - 8-pin mini DIN Female Socket
+
+<img src="./Pics/8din.jpg" width="300px" />
 
 For Attenuated CSync:
 - SMD Capacitor 100uF / 6.3V / Imperial 1206 Size - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/100uF%20SMD%20Cap/info.md)
