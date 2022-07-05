@@ -15,7 +15,7 @@ The Sega Saturn opted for a strange 10-pin mini DIN connector for its AV output.
 
 "Just replace it with a new one!" You may say. But looking around the internet, it's impossible to find an exact replacement 10-pin mini DIN female socket.
 
-On the other hand, if you want to hook up a Saturn to your setup, you will need a 10-pin AV cable. This cable will only work with the Saturn since no other devices uses the same type of connection. Bummer. This cable is also known for it's flaky connection. Accidentally sneeze on it, your picture turns blue and you lose an audio channel. To add salt to injury, there is no way to buy that male 10-pin mini DIN plug either, even if you plan to build your own dream cable. Oof.
+On the other hand, if you want to hook up a Saturn to your setup, you will need a 10-pin AV cable. This cable will only work with the Saturn since no other device uses the same type of connection. Bummer. This cable is also known for it's flaky connection. Accidentally sneeze on it, your picture turns blue and you lose an audio channel. To add salt to injury, there is no way to buy that male 10-pin mini DIN plug either, even if you plan to build your own dream cable. Oof.
 
 Meanwhile, 8-pin mini DIN sockets are eye-watering cheap and abundantly available on Aliexpress 🤡
 
