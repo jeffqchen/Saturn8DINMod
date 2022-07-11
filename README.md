@@ -6,7 +6,7 @@ This is a mod design with a PCB and a 3D printed shroud, for replacing a broken 
 
 <img src="./Pics/XRGB_pinout.jpg" width="300px" />
 
-This design has been verified only on VA 2& 3, as well as the V-Saturn. If your Saturn is from a different model, the metal shield might be incompatible with the 3D-printed piece. You might need to trim the piece or your metail shield in order for it to fit (or you could provide me with some measurements so I can design a compatible one.)
+This design has been verified only on VA 2& 3, as well as the V-Saturn. If your Saturn is from a different model, the metal shield might be incompatible with the 3D-printed piece. You might need to trim the piece or your metal shield in order for it to fit (or you could provide me with some measurements so I can design a compatible one.)
 
 -------------
 ## Explanation
@@ -228,4 +228,4 @@ Enjoy your Saturn with an 8-pin mini DIN AV port!
 -------------
 ## Special Thanks
 Leon Kiriliuk
-Twitter: https://twitter.com/leonkiriliuk
+- Twitter: https://twitter.com/leonkiriliuk
