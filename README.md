@@ -1,6 +1,8 @@
-# Sega Saturn 8-pin mini DIN Mod
+## For better organized documentation, please refer to the [Project Wiki](../../wiki/)
 
-For better organized documentation, please refer to the [Project Wiki](./wiki/)
+----------------
+
+# Sega Saturn 8-pin mini DIN Mod
 
 <img src="./Pics/8dins.jpg" width="600px" />
 
