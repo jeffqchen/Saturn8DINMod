@@ -1,5 +1,7 @@
 # Sega Saturn 8-pin mini DIN Mod
 
+For better organized documentation, please refer to the [Project Wiki](./wiki/)
+
 <img src="./Pics/8dins.jpg" width="600px" />
 
 This is a mod design with a PCB and a 3D printed shroud, for replacing a broken 10-pin mini DIN AV port on a Sega Saturn with an 8-pin mini DIN port. It will output an RGBS video signal and stereo audio, conforming to the XRGB pinout.
