@@ -103,7 +103,9 @@ Note: When soldering the 100uF SMD cap, make sure the solder does NOT short the 
 
 Then, tin all the SMD pads on both sides pf the PCB with a good amount of solder, so you can solder metal pins onto them.
 
-### Solder pins onto the PCB
+### Tips For Soldering Pins Onto The PCB
+
+#### Method
 
 Here is a method suggested by [Leon Kiriliuk](https://twitter.com/leonkiriliuk/status/1542005845776547842), and I find it makes a ton of sense. Unfortunately I ran out of the Saturn PCB at the time, so I used a piece of prototype board as a demonstration.
 
@@ -128,6 +130,12 @@ Correct any crooked pins with the needle. I find it very easy to bend and correc
 
 <img src="./Pics/pins_6.jpg" width="600px" />
 <img src="./Pics/pins_7.jpg" width="600px" />
+
+#### Lead-Free Solder Consideration
+
+Since we are going to solder the other end of these pins to the Saturn motherboard, these pins will be heated again. Sometimes this will cause this end of the pins to fall off the small PCB.
+
+It might be a good idea to use lead-free solder during this step, so the higher melting point will protect these solder joints during the final soldering step.
 
 
 -------------
