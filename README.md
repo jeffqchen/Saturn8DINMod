@@ -68,7 +68,7 @@ But of course, if you don't have any of those above, you can still build my [8DI
 <img src="./Pics/8din.jpg" width="300px" />
 
 For Attenuated CSync:
-- SMD Capacitor 100uF / 6.3V / Imperial 1206 Size - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/100uF%20SMD%20Cap/info.md)
+- SMD Capacitor 220uF / 6.3V / Imperial 1206 Size - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)
 - SMD Resistor 470 Ohm / Imperial 0603 Size (for 75 Ohm CSync, otherwise zero Ohm)
 
 -------------
@@ -88,10 +88,10 @@ Clean up the perimeter of the PCB so nothing is sticking out.
 Populate the PCB. Choose one from these 3 options.
 
 - For attenuated 75 Ohm CSync: (NTSC Only)
-  - Solder the 100uF capacitor and the 470 Ohm resistor on to the PCB
+  - Solder the 220uF capacitor and the 470 Ohm resistor on to the PCB
 
 - For unattenuated CSync: (NTSC Only)
-  - Populate the 100uF capacitor, short the resistor footprint with a blob of solder or 0 Ohm SMD resistor.
+  - Populate the 220uF capacitor, short the resistor footprint with a blob of solder or 0 Ohm SMD resistor.
 
 - For Luma as Sync: (NTSC & PAL)
   - Close the "Luma Sync" jumper. Do not populate any SMD component.
@@ -99,7 +99,7 @@ Populate the PCB. Choose one from these 3 options.
 
 <img src="./Pics/pcb_after.jpg" width="600px" />
 
-Note: When soldering the 100uF SMD cap, make sure the solder does NOT short the adjacent jumper pad.
+Note: When soldering the 220uF SMD cap, make sure the solder does NOT short the adjacent jumper pad.
 
 Then, tin all the SMD pads on both sides pf the PCB with a good amount of solder, so you can solder metal pins onto them.
 
